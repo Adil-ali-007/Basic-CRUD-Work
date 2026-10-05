@@ -216,15 +216,6 @@ Some features that can be added later:
 * ✅ Better form validation
 * 🔔 Toast notifications
 
-## 📸 Project Preview
-
-Add screenshots of your application here:
-
-```text
-![Home Page](./screenshots/home.png)
-```
-
-You can create a `screenshots` folder and add your application screenshots.
 
 ## 👨‍💻 Author
 
